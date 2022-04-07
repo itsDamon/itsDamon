@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @itsDamon
+- 👀 I’m interested in HTML/CSS, C
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me = Instagram: @its.damon__
